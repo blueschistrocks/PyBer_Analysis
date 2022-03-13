@@ -10,7 +10,7 @@ V. Isualize has asked for a summary of the PyBer ride share data by city type (i
 
 Provided below is a image of the Summary DF with the total number of rides and drivers per city type, sum of fares for each city type, and average fare per city type and driver.
 
-IMAGE
+![Summary DF](https://github.com/blueschistrocks/School_District_Analysis/blob/12ab668429a5d67b2d187e78c36b43c4f1720639/Resources/Orig_District_Summary.png)
 
 Two data sets of Pyber date were merged using pd.merge. The analysis of the data sets to prepared the Pybre data summary was conducted using the code provided below.
 
